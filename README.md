@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yarlermanden
+- 👋 Hi, I’m Martin Meldgaard Holst aka. Yarlermanden
 - 👀 I’m interested in programming. Frontend, backend, databases, api endpoints, machine learning, reinforcement learning, AI. You name it
 - 🌱 I’m currently learning everything possible
 - 💞️ I’m looking to collaborate on all sorts of projects
